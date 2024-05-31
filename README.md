@@ -1,3 +1,3 @@
 # TUTORIAL-
 GIT TUTORIAL 
-<br> Author :ADAMYA 
+<br> Author :ADAMYA DABRAL 
